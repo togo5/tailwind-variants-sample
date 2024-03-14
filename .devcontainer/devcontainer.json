@@ -1,0 +1,6 @@
+{
+    "name": "Node.js v20", // お好みの名前
+    "build": {
+        "dockerfile": "Dockerfile" // 相対パス表記
+    }
+}
